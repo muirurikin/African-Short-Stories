@@ -1,0 +1,14 @@
+body {
+font-family: 'Tangerine', serif;
+    font-size: 48px
+        margin:0 auto;
+    max-width: 500px;
+    line-height:  1.7cm;
+    color:aquamarine;
+    
+}
+h1{
+    color:azure;
+    font-weight: 800;
+    line-height: normal
+}
